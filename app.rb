@@ -1,4 +1,5 @@
 require './environment'
++require 'pry'
 require_relative './models/pirate.rb'
 require_relative './models/ship.rb'
 
